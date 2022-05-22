@@ -68,8 +68,8 @@
 			children = (
 				A35F4B2627E8DB100087BA71 /* Info.plist */,
 				A35F4B2C27E8DBE80087BA71 /* Extensions */,
-				A35F4B3027E8DC4D0087BA71 /* Models */,
 				A35F4B2D27E8DBFA0087BA71 /* Views */,
+				A35F4B3027E8DC4D0087BA71 /* Models */,
 				A35F4B2E27E8DC190087BA71 /* View Controllers */,
 				A35F4B2F27E8DC2F0087BA71 /* Supporting Files */,
 			);
